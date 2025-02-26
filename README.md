@@ -35,19 +35,27 @@ The following steps will crash the iReader "Home" application. Once the crash oc
 3. Run http_server.py. You can replace `payloadk-mitm.apk` with any apk - the content is not important. We're just crashing the home app.
 `python3 http_server.py`
 
-Download a couple of documents that are ~200MB to 300MB in size. Keep opening/closing the applications repeatedly. After a few crashes, you get a pop-up with the “App Info” button. Once you click it, you will get the “App Info” screen for iReader. On the top-right in black there’s an invisible button for search. (Hard to see because of contrast). Click it and a search bar will appear. Do the following:
+### Crash the iReader Home Application
+1. Download a couple of documents or books that are ~200MB to 300MB in size. Keep opening/closing the applications repeatedly. After a few crashes, you get a pop-up with the “App Info” button. 
+<img src="https://github.com/user-attachments/assets/06a37c55-dc4b-4d95-bf77-31f3a87eb3bb" width=50% height=50%>
+
+3. Once you click the “App Info” button, there is an invisible search button on the top-right. This is always there - use it to navigate settings. (Hard to see because of contrast). Click it and a search bar will appear.
+<img src="https://github.com/user-attachments/assets/9efe3782-f7de-47df-a9ac-0bb2eb57ed9d" width=50% height=50%>
 
 ### Enable Developer Mode 
-- Search "About" > Go to About > Press the build version 7 times to enable Developer mode
+- Search "About" > Go to About > Press the build version 7 times to enable Developer mode. You will get a message saying Developer Mode has been enabled.
 
 ### Enable USB Debugging  
 - Search "Developer" and click "Developer Mode"
 - Scroll down and enabled "USB Debugging"
+<img src="https://github.com/user-attachments/assets/7321bcd4-7c40-470d-9f31-2642aebe11d5" width=50% height=50%>
+<img src="https://github.com/user-attachments/assets/8ffc6974-3482-40fe-a4c0-57b1745f0fa4" width=50% height=50%>
 
-### Enable unknown sources for File Explorer
+### Enable "Install Unknown Apps" in File Explorer
 - Search "Apps" > Go to "Apps & App Info"
 - Go to File Explorer
 - Enable “Install from unknown sources” for File Explorer
+<img src="https://github.com/user-attachments/assets/cdc9c181-49f2-4e5c-9868-01fc54956c4d" width=50% height=50%>
 
 ## Access Android WebView
 
