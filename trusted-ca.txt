@@ -1,0 +1,212 @@
+AAA Certificate Services
+AC RAIZ FNMT-RCM
+ACCVRAIZ1
+AS Sertifitseerimiskeskus
+Actalis Authentication Root CA
+Actalis S.p.A./03358520967
+AddTrust AB
+AddTrust Extemal CA Root
+Affirm Trust
+Affirm Trust Premium ECC
+AfirmTrust Commercial
+Agencia Catalana de Certificacio (NIF
+Agencia Catalana de Certificacio (NIF Q-0801 176-0)
+Alfirm Trust Networking
+Alfirm Trust Premium
+Alfirm Trust Premium ECC
+Amazon
+Amazon Root CA 1
+Amazon Root CA 2
+Amazon Root CA 3
+Amazon Root CA 4
+Atos
+Autoridad de Certificacion Firmaprofesional CIF
+Baltimore
+Baltimore Cyber Trust Root
+Buypass AS-983163327
+Buypass Class 2 Root CA
+Buypass Class 3 Root CA
+CA Disig Root R1
+CA Disig Root R2
+CFCA EV RCOT
+COMODO CA Limited
+COMODO Certification Authority
+COMODO ECC Certification Authority
+COMODO RSA Certification Authority
+Certigna
+Certinomis
+Certinomis - Root CA
+Certplus
+Certplus Root CA G1
+Certplus Root CA G2
+Certum Trusted Network CA
+Certum Trusted Network CA 2
+Certur Trusted Network CA 2
+China Financial Certification Authority
+Chunghwa Telecom Co., Ltd. ePKI Root Certification Authority
+Class 2 Primary CA
+Comedo CA Limited
+Cybertrust Global Root
+Cybertrust, Inc
+D-TRUST Root Class 3 CA 2 2009
+D-TRUST Root Class 3 CA 2 EV 2009
+D-Trust GmbH
+DST Root CA X3
+Deutsche Telekom AG
+Deutsche Telekom Root CA 2
+Dhimyotis
+DigiCert Assured ID Root CA
+DigiCert Assured ID Root G2
+DigiCert Assured ID Root G3
+DigiCert Global Root CA
+DigiCert Global Root G2
+DigiCert Global Root G3
+DigiCert High Assurance EV Root CA
+DigiCert Inc
+DigiCert Trusted Root G4
+Digital Signature Trust Co.
+Disig a.s.
+E-Tugra Certification Authority
+E-Tugra EBG Bilisim Teknolojileri ve Hizmetleri
+EC-ACC
+EE Certification Centre Root CA
+Entruat net Certification Authorty (2048)
+Entrust Root Certification Authority
+Entrust Root Certification Authority - EC1
+Entrust Root Certification Authority - G2
+Entrust, Inc.
+Entrust.net
+FNMT-RCM
+GDCA TrUStAUTH RS ROOT
+GUANG DONG CERTIFICATE AUTHORITY CO.,LTD.
+Geo Trust Global CA
+Geo Trust Inc.
+Geo Trust Primary Certification Authority - G3
+Geo Trust Universal CA
+Geo Trust Universal CA 2
+GeoTrust Inc.
+GeoTrust Primary Certification Authority
+GeoTrust Primary Certification Authority - G2
+GlobalSign
+GlobalSign Root CA
+GlobalSign nv-sa
+Go Daddy Class 2 Certification Authority
+Go Daddy Root Certificate Authority - G2
+GoDaddy.com, Inc
+Government Root Certification Authority
+Hellenic Academic and Research Institutions Cert. Authonty Hellenic Academic and Research Institutions ECC RootCA 2015
+Hellenic Academic and Research Institutions Cert. Authonty Hellenic Academic and Research instbut»
+Hellenic Academic and Research Institutions Cert. Authority Hellenic Academic and Research Instutions RovCA 2011
+Hongkong Post
+Hongkong Post Root CA 1
+ISRG Root X1
+IZENPE S.A.
+IdenTrust
+IdenTrust Commercial Root CA 1
+IdenTrust Public Sector Root CA 1
+Internet Security Research Group
+Izenpe.com
+Japan Certification Services, Inc.
+Krajowa Izba Rozliczeniowa S.A.
+LuxTrust Global Root 2
+LuxTrust S.A.
+Microsec Ltd.
+Microsec e-Surigno Root CA 2009
+Microsec e-Szigno Root CA 2009
+NetLock Kft.
+Netlock Arany (Class Gold) Fotanüsitvány
+Network Solutions Certificate Authonity
+Network Solutions L.L.C.
+OISTE WiSeKey Global Root GA CA
+OSTE WiSeKey Global Root GB CA
+OpenTrust
+OpenTrust Root CA G1
+OpenTrust Root CA G2
+OpepTrunt Root CA G3
+Quo Vadis Limited
+Quo Vadis Root CA 1 G3
+Quo Vadis Root CA 2
+Quo Vadis Root CA 2 G3
+Quo Vadis Root CA 3
+Quo Vadis Root CA 3 G3
+Quo Vadis Root Certification Authority
+QuoVadis Limited
+ROCICA 2015
+Ramp Security Services inc
+SECOM Trust Systems CO,LTD.
+SECOM Trust Systems CO.,LTD.
+SECOM Trust.net
+SSLCorporation
+SSL.Corporation
+SSL.com EV Root Certification Authority ECC
+SSL.com Root Certification Authority ECC
+SSL.com Root Certification Authority RSA
+SSL.com EV Root Certification Authority ECC
+SSL.com EV Root Certification Authority RSA R2
+SYSTEM
+SZAFIR ROOT CA2
+Secunty Communication RODICAZ
+Secure Global CA
+Secure Trust Corporation
+SecureSign RootCA11
+SecureTrust CA
+Security Communication EV RoOICA1
+Security Communication RootCA1
+Sonera
+Sonera Class2 CA
+Staat der Nederfanden Root CA - G2
+Staat der Nederlanden
+Staat der Nederlanden EV Root CA
+Staat der Nederlanden Root CA - G3
+Starfield Class 2 Certification Authority
+Starfield Root Certificate Authority - G2
+Starfield Services Root Certificate Authority - G2
+Starfield Technologies, Inc
+Starfield Technologies, Inc.
+Starheld Root Certificate Authority - G2
+SwissSign AG
+SwissSign Gold CA - G2
+SwissSign Silver CA - G2
+T-Systems Enterprise Services GmbH
+T-TeleSec GlobalRoot Class 2
+T. TeleSec GlobalRoot Class 3
+TAIWAN-CA
+TUBITAK Kamu SM SSL Kok Sertifikasi - Surum 1
+TÜRKTRUST Bilgi lletisim ve Bilisim Güvenligi Hizmeter A.,
+TÜRKTRUST Elektronik Serufika Hizmet Saglayicis: H5
+TWCA Global Root CA
+TWCA Root Certification Authority
+TeliaSonera
+TeliaSonera Root CA v1
+The Go Daddy Group, Inc.
+The USERTRUST Network
+TrUStCOr ECA1
+TrustCor Systems S. de R.L
+Trusted credentials
+Trustis FPS Root CA. de R.L.
+Trustis Limited
+Turkiye Bilimsel ve Teknolojik Arastirma Kurumu - TUBITAK
+USERTIUS RSA Certification Authority
+USERTIUST ECC Certification Authority
+Unizeto Technologies S.A.
+VISA
+VeriSign Claso 3, Publio Primpy Certification Authority - GA
+VeriSign Class 3 Public Primary Certification Authority - G3
+VeriSign Class 3 Public Primary Certification Authority - G4
+VeriSign Class 3 Public Primary Certification Authority - G5
+VeriSign Universal Root Certification Authority
+VeriSign, Inc.
+VeriSion Clasy & Public Primary Certification Authority 103 Hizmetlen A S
+Verifige Universal Root Certification Authority
+Verition Cipes 3. Pablo Primary Certification Authorty - 65
+Visa eCommerce Root
+WiSeKey
+XRamp Global Certfication Authorty
+certSIGN
+certSIGN ROOT CA
+iden Trust
+irity Communication RootCA2
+thawte Primary Root CA
+thawte Primary Root CA - G2
+thawte, Inc.
+thowte Prmary Root CA - G3
